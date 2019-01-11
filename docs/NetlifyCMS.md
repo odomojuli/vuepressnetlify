@@ -8,6 +8,8 @@ title: NetlifyCMS
 ![NetlifyCMS](/.vuepress/dist/vuepress-deploy.jpg)
 
 In '.vuepress/public/admin/config.yml'
+
+
 Change repo name
 
 ```
@@ -18,11 +20,14 @@ backend:
 ```
 
 Add an OAuth app to your GitHub account: 
+
+
 https://github.com/settings/developers
 
 For Authorization callback URL, enter:
-https://api.netlify.com/auth/done
 
+
+https://api.netlify.com/auth/done
 
 GitHub provides Client ID and Client Secret
 
