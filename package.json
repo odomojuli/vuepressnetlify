@@ -1,0 +1,19 @@
+{
+  "name": "VuePressNetlify",
+  "version": "1.0.0",
+  "repository": "https://github.com/odomojuli/VuePressNetlify",
+  "description": "Starter template for VuePress + Netlify",
+  "author": "Juli Odomo <odomo.juli@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  },
+  "dependencies": {
+    "eslint": "^5.12.0",
+    "npm": "^6.5.0"
+  }
+}
