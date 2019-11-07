@@ -22,7 +22,7 @@ features:
 ```bash{3}
 git clone https://github.com/odomojuli/VuePressNetlify
 cd VuePressNetlify
-npm
+npm install
 vuepress dev
 ```
 
